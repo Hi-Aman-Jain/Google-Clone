@@ -2,6 +2,8 @@
 
 This repository contains the source code and files for a replica of the Google frontpage. The frontpage has been created using HTML, CSS, and JavaScript.
 
+![google.png](https://j.gifs.com/yoe67W.gif)
+
 ## Description
 
 The Google frontpage replica aims to recreate the familiar and minimalist design of the original Google search engine. It includes the iconic Google-Doodle logo, search bar, and buttons for search and "I'm Feeling Lucky." The design elements and layout have been carefully crafted to closely resemble the appearance and functionality of the actual Google frontpage.
